@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:background="@drawable/tds_common_bg_tap_toast"
+    android:paddingLeft="8dp"
+    android:paddingTop="8dp"
+    android:paddingRight="8dp"
+    android:paddingBottom="8dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="8dp"
+    android:paddingVertical="8dp">
+    <ImageView
+        android:id="@+id/iv_tap_toast"
+        android:layout_width="26dp"
+        android:layout_height="25dp"
+        android:src="@drawable/tds_common_tap_toast_avatar"/>
+    <TextView
+        android:textSize="14dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:ellipsize="end"
+        android:id="@+id/tv_tap_toast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="已使用 Tap 登录"
+        android:maxLines="1"
+        android:paddingEnd="4dp"
+        android:layout_marginStart="8dp"/>
+</LinearLayout>

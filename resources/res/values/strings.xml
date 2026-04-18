@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">弈剑行</string>
+    <string name="game_view_content_description">Game view</string>
+    <string name="login_account_logged_tip">已登录账号：%s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

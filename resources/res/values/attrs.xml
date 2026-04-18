@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="alignContent">
+        <enum name="flex_start" value="0" />
+        <enum name="flex_end" value="1" />
+        <enum name="center" value="2" />
+        <enum name="space_between" value="3" />
+        <enum name="space_around" value="4" />
+        <enum name="stretch" value="5" />
+    </attr>
+    <attr name="alignItems">
+        <enum name="flex_start" value="0" />
+        <enum name="flex_end" value="1" />
+        <enum name="center" value="2" />
+        <enum name="baseline" value="3" />
+        <enum name="stretch" value="4" />
+    </attr>
+    <attr name="alpha" format="float">
+    </attr>
+    <attr name="dividerDrawable" format="reference">
+    </attr>
+    <attr name="dividerDrawableHorizontal" format="reference">
+    </attr>
+    <attr name="dividerDrawableVertical" format="reference">
+    </attr>
+    <attr name="flexDirection">
+        <enum name="row" value="0" />
+        <enum name="row_reverse" value="1" />
+        <enum name="column" value="2" />
+        <enum name="column_reverse" value="3" />
+    </attr>
+    <attr name="flexWrap">
+        <enum name="nowrap" value="0" />
+        <enum name="wrap" value="1" />
+        <enum name="wrap_reverse" value="2" />
+    </attr>
+    <attr name="font" format="reference">
+    </attr>
+    <attr name="fontProviderAuthority" format="string">
+    </attr>
+    <attr name="fontProviderCerts" format="reference">
+    </attr>
+    <attr name="fontProviderFetchStrategy">
+        <enum name="blocking" value="0" />
+        <enum name="async" value="1" />
+    </attr>
+    <attr name="fontProviderFetchTimeout" format="integer">
+        <enum name="forever" value="-1" />
+    </attr>
+    <attr name="fontProviderPackage" format="string">
+    </attr>
+    <attr name="fontProviderQuery" format="string">
+    </attr>
+    <attr name="fontProviderSystemFontFamily" format="string">
+    </attr>
+    <attr name="fontStyle">
+        <enum name="normal" value="0" />
+        <enum name="italic" value="1" />
+    </attr>
+    <attr name="fontVariationSettings" format="string">
+    </attr>
+    <attr name="fontWeight" format="integer">
+    </attr>
+    <attr name="justifyContent">
+        <enum name="flex_start" value="0" />
+        <enum name="flex_end" value="1" />
+        <enum name="center" value="2" />
+        <enum name="space_between" value="3" />
+        <enum name="space_around" value="4" />
+        <enum name="space_evenly" value="5" />
+    </attr>
+    <attr name="layout_alignSelf">
+        <enum name="auto" value="-1" />
+        <enum name="flex_start" value="0" />
+        <enum name="flex_end" value="1" />
+        <enum name="center" value="2" />
+        <enum name="baseline" value="3" />
+        <enum name="stretch" value="4" />
+    </attr>
+    <attr name="layout_flexBasisPercent" format="fraction">
+    </attr>
+    <attr name="layout_flexGrow" format="float">
+    </attr>
+    <attr name="layout_flexShrink" format="float">
+    </attr>
+    <attr name="layout_maxHeight" format="dimension">
+    </attr>
+    <attr name="layout_maxWidth" format="dimension">
+    </attr>
+    <attr name="layout_minHeight" format="dimension">
+    </attr>
+    <attr name="layout_minWidth" format="dimension">
+    </attr>
+    <attr name="layout_order" format="integer">
+    </attr>
+    <attr name="layout_wrapBefore" format="boolean">
+    </attr>
+    <attr name="maxLine" format="integer">
+    </attr>
+    <attr name="nestedScrollViewStyle" format="reference">
+    </attr>
+    <attr name="queryPatterns" format="reference">
+    </attr>
+    <attr name="shortcutMatchRequired" format="boolean">
+    </attr>
+    <attr name="showDivider">
+        <flag name="none" value="0" />
+        <flag name="beginning" value="1" />
+        <flag name="middle" value="2" />
+        <flag name="end" value="4" />
+    </attr>
+    <attr name="showDividerHorizontal">
+        <flag name="none" value="0" />
+        <flag name="beginning" value="1" />
+        <flag name="middle" value="2" />
+        <flag name="end" value="4" />
+    </attr>
+    <attr name="showDividerVertical">
+        <flag name="none" value="0" />
+        <flag name="beginning" value="1" />
+        <flag name="middle" value="2" />
+        <flag name="end" value="4" />
+    </attr>
+    <attr name="ttcIndex" format="integer">
+    </attr>
+</resources>

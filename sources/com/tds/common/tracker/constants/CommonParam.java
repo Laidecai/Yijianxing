@@ -1,0 +1,51 @@
+package com.tds.common.tracker.constants;
+
+/* JADX INFO: loaded from: classes.dex */
+public class CommonParam {
+    public static final String ANTI_ADDICTION_SESSION_ID = "anti_addict_session_id";
+    public static final String ANTI_ADDICTION_USER_ID = "anti_addict_user_identifier";
+    public static final String APP_PACKAGE_NAME = "app_package_name";
+    public static final String APP_VERSION = "app_version";
+    public static final String APP_VERSION_CODE = "app_version_code";
+    public static final String APP_VERSION_NAME = "app_version_name";
+    public static final String CLIENT_ID = "client_id";
+    public static final String CPU = "cpu";
+    public static final String CPU_ABIS = "cpu_abis";
+    public static final String DEPARTMENT = "department";
+    public static final String DEVICE_ID = "device_id";
+    public static final String DEVICE_VERSION = "dv";
+    public static final String D_ORIENTATION = "d_orientation";
+    public static final String D_RAM = "d_ram";
+    public static final String D_ROM = "d_rom";
+    public static final String FLOW = "flow";
+    public static final String HARDWARE = "hardware";
+    public static final String INSTALL_UUID = "install_uuid";
+    public static final String LOCALE = "locale";
+    public static final String MOBILE_TYPE = "mobile_type";
+    public static final String MODEL = "md";
+    public static final String NETWORK_TYPE = "network_type";
+    public static final String OPEN_ID = "open_id";
+    public static final String ORGANIZATION = "organization";
+    public static final String OS_PARAM = "os";
+    public static final String PN = "pn";
+    public static final String PROCESS_SESSION_ID = "p_session_id";
+    public static final String PROJECT = "tapsdk_project";
+    public static final String RAM = "ram";
+    public static final String ROM = "rom";
+    public static final String SDK_LOCALE = "sdk_locale";
+    public static final String SDK_VERSION = "sdk_version";
+    public static final String SDK_VERSION_CODE = "sdk_version_code";
+    public static final String SDK_VERSION_NAME = "sdk_version_name";
+    public static final String SR = "sr";
+    public static final String SR_HEIGHT = "height";
+    public static final String SR_WIDTH = "width";
+    public static final String SYSTEM_VERSION = "sv";
+    public static final String TDS_USER_ID = "tds_user_id";
+    public static final String TEAM = "team";
+    public static final String TIME = "time";
+    public static final String TIMESTAMP = "timestamp";
+    public static final String TIMEZONE = "timezone";
+    public static final String TRACK_CODE = "track_code";
+    public static final String T_LOG_ID = "t_log_id";
+    public static final String VERSION = "version";
+}
